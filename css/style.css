@@ -1,0 +1,23 @@
+
+    .bluemark,#player1{
+        color: green;
+        font-weight: 1000;
+    
+        }
+
+    .redmark,#player2{
+  
+        color: red;
+        font-weight: 1000;
+        
+        }
+    
+    .errormsg{
+        text-align: center;
+        font-weight: 500;
+        color: red;
+    }
+
+    .container{
+        text-align: center;
+    }
